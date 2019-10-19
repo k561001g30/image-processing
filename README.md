@@ -9,6 +9,7 @@ bottom-right four direction to extend origin pictures.
 Pictures are the static data,so,the way tear the 1picture into 4~1pieces(According to the division situation) 
 
 # Zip-directory
+```bash
 imagetear
     ├── 影像切割
     │   ├── App.config
@@ -140,3 +141,4 @@ imagetear
     │   │   └── Settings.settings
     │   └── 影像切割.csproj
     └── 影像切割.sln
+    ```
