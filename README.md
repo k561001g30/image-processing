@@ -1,5 +1,5 @@
 # image-processing
-we would like to tear into 50pixs X 50pixs square image,it's definitely have the wast of the picture in the corner.
+If we would like to tear into 50pixs X 50pixs square image,it's definitely have the wast of the picture in the corner.
 
 Forcing to this problem I found that I can split the picture from top-left,top-right,bottom-left and
 bottom-right four direction to extend origin pictures.
