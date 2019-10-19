@@ -3,7 +3,9 @@ we would like to tear into 50pixs X 50pixs square image,it's definitely have the
 
 Forcing to this problem I found that I can split the picture from top-left,top-right,bottom-left and
 bottom-right four direction to extend origin pictures.
+
 ![image](https://github.com/k561001g30/image-processing/blob/master/gitdescribefig.png)
+
 Pictures are the static data,so,the way tear the 1picture into 4~1pieces(According to the division situation) 
 
 # Zip-directory
