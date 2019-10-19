@@ -15,7 +15,7 @@ imagetear
     │   ├── App.config
     │   ├── bin
     │   │   └── Debug
-    │   │       ├── ocean_garbage   <--origin pictures
+    │   │       ├── ocean_garbage   #origin pictures
     │   │       │   ├── images (0).jpg
     │   │       │   ├── images (10).jpg
     │   │       │   ├── images (11).jpg
@@ -141,4 +141,7 @@ imagetear
     │   │   └── Settings.settings
     │   └── 影像切割.csproj
     └── 影像切割.sln
-    ```
+```
+
+# The way of open code
+The codes are encoding with Windows Visualstudio 2012 ,.NET Framework Version:v4.5
